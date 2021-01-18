@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torrent.Convert", "Torrent.Convert\Torrent.Convert.csproj", "{2C60DA51-DB04-4A9D-AA86-0A57FBC92A06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torrent.Convert.Test", "Torrent.Convert.Test\Torrent.Convert.Test.csproj", "{E2BE5C5F-FC03-4D08-8A3F-A5370122A5A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torrent.MagnetLink", "Torrent.MagnetLink\Torrent.MagnetLink.csproj", "{B78154D4-2F53-4528-AA08-84414E52983D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C60DA51-DB04-4A9D-AA86-0A57FBC92A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C60DA51-DB04-4A9D-AA86-0A57FBC92A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C60DA51-DB04-4A9D-AA86-0A57FBC92A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C60DA51-DB04-4A9D-AA86-0A57FBC92A06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BE5C5F-FC03-4D08-8A3F-A5370122A5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BE5C5F-FC03-4D08-8A3F-A5370122A5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BE5C5F-FC03-4D08-8A3F-A5370122A5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BE5C5F-FC03-4D08-8A3F-A5370122A5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78154D4-2F53-4528-AA08-84414E52983D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78154D4-2F53-4528-AA08-84414E52983D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78154D4-2F53-4528-AA08-84414E52983D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78154D4-2F53-4528-AA08-84414E52983D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B7973FB-8BDE-4F01-BBE8-D7E4B96AA857}
+	EndGlobalSection
+EndGlobal
